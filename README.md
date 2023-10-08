@@ -1,0 +1,3 @@
+Compartilho com vocês o meu dashboard interativo sobre as vendas de medicamentos manipulados no Brasil no período de janeiro de 2014. Seus visuais trazem a informação da quantidade total de medicamentos controlados consumidos pela população brasileira no todo e a quantidade para cada estado e município, traz também a quantidade total de venda dos principais princípios ativos consumidos e a quantidade para cada região.
+
+O principal objetivo desse dashboard é que a partir dele possamos tomar decisões mais assertivas em relação ao planejamento de recursos e também para um melhor controle das politicas de saúde.# PowerBI_projects
